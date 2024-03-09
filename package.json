@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "podkeve": "^1.0.0",
+    "use-commad-re": "^1.0.2"
+  },
+  "name": "todocel",
+  "description": "still under construction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kassiestei",
+  "license": "ISC"
+}
